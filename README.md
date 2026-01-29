@@ -14,7 +14,7 @@ It works for grasycale and color images, reconstructing them using given singula
 
 | k=15 | k=25 | k=35 | k=45 |
 |------|------|------|------|
-| ![k15](results/image_k15.png) | ![k25](results.image_k25.png) | ![k35](results.image_k35.png) | ![k45](results.image_k45.png) |
+| ![k15](results/image_k15.png) | ![k25](results/image_k25.png) | ![k35](results/image_k35.png) | ![k45](results/image_k45.png) |
 
 ## Getting started
 ### 1. Clone the repo
