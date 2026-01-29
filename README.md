@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 ### 3. Run the script
 ```bash
-python svd_decomposition_color_images.py images/test.jpg --ks 15 25 35 45
+python svd_decomposition_color_images.py test.jpg --ks 15 25 35 45
 ```
 This will display reconstructed images and save them in a results folder.
 ### 4. Customize as wanted
